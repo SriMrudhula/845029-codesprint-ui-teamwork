@@ -1,5 +1,6 @@
-const Product_Key = "order";
+const Product_Key = "odr";
 var s = 1;
+
 function myfun1() {
     document.getElementById("ph2").focus();
 }
@@ -53,6 +54,7 @@ function addOrderFormSubmit()
         document.getElementById("pincode").focus();
         return false;
     }
+
     let orders = getOrdersFromLocalStorage();
     let bn1 = document.getElementById("bn1").value;
     let bn2 = document.getElementById("bn2").value;
