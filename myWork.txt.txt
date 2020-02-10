@@ -5,7 +5,7 @@ Other team members:
 Team lead:
 845064
 My Role in team:
-1. To develop PlaceOrder Validation and dealing with Local Storage.
+1. To develop ViewOrder Validation and dealing with Local Storage.
 My development files:
 1. vieworder.html
 2. giftcard.js
